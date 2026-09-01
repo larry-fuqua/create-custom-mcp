@@ -1,0 +1,8 @@
+{
+  "name": "create-custom-mcp",
+  "description": "Stand up a community or custom MCP behind a shared auth gateway (OAuth PKCE + API key), with a final as-built security review.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Larry Fuqua"
+  }
+}

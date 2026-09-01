@@ -1,0 +1,20 @@
+{
+  "name": "create-custom-mcp",
+  "description": "Drop-in create-custom-mcp skill for Grok Build (and a Grok Bot copy in grok-bot/).",
+  "owner": {
+    "name": "Larry Fuqua"
+  },
+  "plugins": [
+    {
+      "name": "create-custom-mcp",
+      "description": "Stand up a community or custom MCP behind a shared auth gateway, with a final as-built security review.",
+      "category": "development",
+      "source": {
+        "type": "local",
+        "path": "./create-custom-mcp"
+      },
+      "homepage": "https://github.com/larry-fuqua/create-custom-mcp",
+      "keywords": ["mcp", "custom mcp", "auth gateway", "connector"]
+    }
+  ]
+}
